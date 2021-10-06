@@ -1,5 +1,4 @@
 caixa_geral = 1000
-barracas = 0
 
 while True:
     compra = int(input('\033[40mQuantas fichas quer comprar? \033[m'))
